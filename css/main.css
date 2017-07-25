@@ -13,17 +13,19 @@ I've left some boilerplate below for you.
 */
 
 body {
-
-
+  text-align: center;
+  font-family: sans-serif;
+  margin: 2em;
 }
 
 article {
-  width: 800px;
-
+  margin: 0 auto;
+  max-width: 50em;
 }
 
 h1 {
-
+  margin: 0 auto 1em auto;
+  width: 800px;
 }
 
 img {
